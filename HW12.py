@@ -1,13 +1,9 @@
 import sqlite3
 import pandas as pds
-global EnvironmentDir
-EnvironmentDir = '\\fileserver\\data\\David\\Documents\\College Classes\\FALL 2024\\Python\\HW12 Git'
 
 
 def importBooksDB():
-    global EnvironmentDir
     # Load Database
-    databaseDir = EnvironmentDir+ '\\books.db'
     database = sqlite3.connect('books (1).db')
 
     # Import Relevant tables
