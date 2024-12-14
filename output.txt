@@ -1,0 +1,69 @@
+     last
+0    Wald
+1   Quirk
+2  Deitel
+3  Deitel
+4  Deitel
+                              title
+0         Android 6 for Programmers
+1            Android How to Program
+2                  C How to Program
+3                C++ How to Program
+4     Internet & WWW How to Program
+5     Intro to Python for CS and DS
+6               Java How to Program
+7  Visual Basic 2012 How to Program
+8          Visual C# How to Program
+9         Visual C++ How to Program
+        first    last                             title copyright        isbn
+0        Paul  Deitel         Android 6 for Programmers      2016  0134289366
+1      Harvey  Deitel         Android 6 for Programmers      2016  0134289366
+2   Alexander    Wald         Android 6 for Programmers      2016  0134289366
+3        Paul  Deitel            Android How to Program      2017  0134444302
+4      Harvey  Deitel            Android How to Program      2017  0134444302
+5        Paul  Deitel                  C How to Program      2016  0133976890
+6      Harvey  Deitel                  C How to Program      2016  0133976890
+7        Paul  Deitel                C++ How to Program      2017  0134448235
+8      Harvey  Deitel                C++ How to Program      2017  0134448235
+9        Paul  Deitel     Internet & WWW How to Program      2012  0132151006
+10     Harvey  Deitel     Internet & WWW How to Program      2012  0132151006
+11      Abbey  Deitel     Internet & WWW How to Program      2012  0132151006
+12       Paul  Deitel     Intro to Python for CS and DS      2020  0135404673
+13     Harvey  Deitel     Intro to Python for CS and DS      2020  0135404673
+14       Paul  Deitel               Java How to Program      2018  0134743350
+15     Harvey  Deitel               Java How to Program      2018  0134743350
+16       Paul  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+17     Harvey  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+18      Abbey  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+19       Paul  Deitel          Visual C# How to Program      2017  0134601548
+20     Harvey  Deitel          Visual C# How to Program      2017  0134601548
+21       Paul  Deitel         Visual C++ How to Program      2008  0136151574
+22     Harvey  Deitel         Visual C++ How to Program      2008  0136151574
+23        Dan   Quirk         Visual C++ How to Program      2008  0136151574
+Adding new bookAdding title by first last ISBN: 12121212 Edition: 1 Published in 2024        first    last                             title copyright        isbn
+0        Paul  Deitel         Android 6 for Programmers      2016  0134289366
+1      Harvey  Deitel         Android 6 for Programmers      2016  0134289366
+2   Alexander    Wald         Android 6 for Programmers      2016  0134289366
+3        Paul  Deitel            Android How to Program      2017  0134444302
+4      Harvey  Deitel            Android How to Program      2017  0134444302
+5        Paul  Deitel                  C How to Program      2016  0133976890
+6      Harvey  Deitel                  C How to Program      2016  0133976890
+7        Paul  Deitel                C++ How to Program      2017  0134448235
+8      Harvey  Deitel                C++ How to Program      2017  0134448235
+9        Paul  Deitel     Internet & WWW How to Program      2012  0132151006
+10     Harvey  Deitel     Internet & WWW How to Program      2012  0132151006
+11      Abbey  Deitel     Internet & WWW How to Program      2012  0132151006
+12       Paul  Deitel     Intro to Python for CS and DS      2020  0135404673
+13     Harvey  Deitel     Intro to Python for CS and DS      2020  0135404673
+14       Paul  Deitel               Java How to Program      2018  0134743350
+15     Harvey  Deitel               Java How to Program      2018  0134743350
+16       Paul  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+17     Harvey  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+18      Abbey  Deitel  Visual Basic 2012 How to Program      2014  0133406954
+19       Paul  Deitel          Visual C# How to Program      2017  0134601548
+20     Harvey  Deitel          Visual C# How to Program      2017  0134601548
+21       Paul  Deitel         Visual C++ How to Program      2008  0136151574
+22     Harvey  Deitel         Visual C++ How to Program      2008  0136151574
+23        Dan   Quirk         Visual C++ How to Program      2008  0136151574
+24      first    last                             title      2024    12121212
+Displaying the titles table via fetchall method and description attribute[('0135404673', 'Intro to Python for CS and DS', 1, '2020'), ('0132151006', 'Internet & WWW How to Program', 5, '2012'), ('0134743350', 'Java How to Program', 11, '2018'), ('0133976890', 'C How to Program', 8, '2016'), ('0133406954', 'Visual Basic 2012 How to Program', 6, '2014'), ('0134601548', 'Visual C# How to Program', 6, '2017'), ('0136151574', 'Visual C++ How to Program', 2, '2008'), ('0134448235', 'C++ How to Program', 10, '2017'), ('0134444302', 'Android How to Program', 3, '2017'), ('0134289366', 'Android 6 for Programmers', 3, '2016'), ('12121212', 'title', 1, '2024')](('isbn', None, None, None, None, None, None), ('title', None, None, None, None, None, None), ('edition', None, None, None, None, None, None), ('copyright', None, None, None, None, None, None))
